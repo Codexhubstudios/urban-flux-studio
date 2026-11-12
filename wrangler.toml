@@ -1,0 +1,4 @@
+name = "urban-flux-studio"
+main = "src/worker.js"
+compatibility_date = "2025-01-01"
+account_id = "388763a7870ed8bcf5adddc39e6d6180"
